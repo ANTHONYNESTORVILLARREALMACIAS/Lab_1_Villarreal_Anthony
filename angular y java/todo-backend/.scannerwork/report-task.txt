@@ -1,0 +1,6 @@
+projectKey=Calidad_Java_SW_R
+serverUrl=http://localhost:9000
+serverVersion=25.5.0.107428
+dashboardUrl=http://localhost:9000/dashboard?id=Calidad_Java_SW_R
+ceTaskId=385b2a92-ad75-4899-b1c1-8d9a4b78bafd
+ceTaskUrl=http://localhost:9000/api/ce/task?id=385b2a92-ad75-4899-b1c1-8d9a4b78bafd
